@@ -15,7 +15,7 @@ Hi! I'm Carlos Sánchez Muñoz, a computer scientist and mathematician of Spain.
 ### ‍🚀 Studies & Research & Experience:
 
 * 🎓 I graduated in Mathematics and in Computer Science at the University of Granada.
-* 🔬 I am currently finishing my studies in Professional Master in Computer Engineering.
+* 🔬 I have finished my studies in MSc of Computer Science.
 * 🔭 I have been a researcher in the University of Granada twice: as a Bachelor's Degree student and as a Master's student.
 * 👨🏻‍💻 I am currently working as a data scientist and computer specialist in a biotech company.
 * 💻 I love solving problems and writing code.
