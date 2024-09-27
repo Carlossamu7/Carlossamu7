@@ -6,7 +6,7 @@
 </h1>
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-santiago-s%C3%A1nchez-mu%C3%B1oz-262154195/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Carlossamu7) ![](https://visitor-badge.glitch.me/badge?page_id=Carlossamu7.Carlossamu7&style=flat-square&color=0088cc) [![GitHub followers](https://img.shields.io/github/followers/Carlossamu7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Carlossamu7?tab=followers) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carlossamu7@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/carlos-santiago-s%C3%A1nchez-mu%C3%B1oz-262154195/](https://www.linkedin.com/in/carlossamu7/)) [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Carlossamu7) ![](https://visitor-badge.glitch.me/badge?page_id=Carlossamu7.Carlossamu7&style=flat-square&color=0088cc) [![GitHub followers](https://img.shields.io/github/followers/Carlossamu7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Carlossamu7?tab=followers) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carlossamu7@gmail.com)
 
 
 Hi! I'm Carlos Sánchez Muñoz, a computer scientist and mathematician of Spain.
