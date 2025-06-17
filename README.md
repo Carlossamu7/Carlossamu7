@@ -1,31 +1,22 @@
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="flex-shrink: 0; width: 130px; text-align: center;">
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div style="flex-shrink: 0; width: 110px; text-align: center;">
     <img src="./images/Avatar.png" alt="Carlos Sanchez" width="120" height="120" style="border-radius: 50%;">
   </div>
-  <div style="max-width: 600px; text-align: center;">
+  <div style="flex: 1; min-width: 250px;">
     <h1>
       <a href="https://git.io/typing-svg" style="text-decoration: none;">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Carlos...;Nice+to+meet+you!&center=true&size=25" alt="Typing SVG">
       </a>
     </h1>
-    <p style="margin-top: 10px;">
-      <a href="https://www.linkedin.com/in/carlossamu7/" style="margin: 0 5px;">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
-      </a>
-      <a href="https://t.me/Carlossamu7" style="margin: 0 5px;">
-        <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white">
-      </a>
-      <a href="mailto:carlossamu7@gmail.com" style="margin: 0 5px;">
-        <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
-      </a>
-      <a href="https://github.com/Carlossamu7?tab=followers" style="margin: 0 5px;">
-        <img src="https://img.shields.io/github/followers/Carlossamu7.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub followers">
-      </a>
-    </p>
   </div>
 </div>
 
-<hr>
+<!-- Badges en Markdown -->
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlossamu7/)
+  [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Carlossamu7)
+  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:carlossamu7@gmail.com)
+  [![GitHub followers](https://img.shields.io/github/followers/Carlossamu7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Carlossamu7?tab=followers)
+
 
 Hi! I'm **Carlos Sánchez Muñoz**, a computer scientist and mathematician from Spain.
 
