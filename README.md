@@ -1,32 +1,28 @@
-<div align="center">
-  <table>
-    <tr>
-      <td width="130px" align="center">
-        <img src="./images/Avatar.png" alt="Carlos Sanchez" width="120" height="120">
-      </td>
-      <td>
-        <h1 align="center">
-          <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Carlos...;Nice+to+meet+you!&center=true&size=25">
-          </a>
-        </h1>
-        <p align="center">
-          <a href="https://www.linkedin.com/in/carlossamu7/">
-            <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
-          </a>
-          <a href="https://t.me/Carlossamu7">
-            <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white">
-          </a>
-          <a href="mailto:carlossamu7@gmail.com">
-            <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
-          </a>
-          <a href="https://github.com/Carlossamu7?tab=followers">
-            <img src="https://img.shields.io/github/followers/Carlossamu7.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub followers">
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="flex-shrink: 0; width: 130px; text-align: center;">
+    <img src="./images/Avatar.png" alt="Carlos Sanchez" width="120" height="120" style="border-radius: 50%;">
+  </div>
+  <div style="max-width: 600px; text-align: center;">
+    <h1>
+      <a href="https://git.io/typing-svg" style="text-decoration: none;">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Carlos...;Nice+to+meet+you!&center=true&size=25" alt="Typing SVG">
+      </a>
+    </h1>
+    <p style="margin-top: 10px;">
+      <a href="https://www.linkedin.com/in/carlossamu7/" style="margin: 0 5px;">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white">
+      </a>
+      <a href="https://t.me/Carlossamu7" style="margin: 0 5px;">
+        <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white">
+      </a>
+      <a href="mailto:carlossamu7@gmail.com" style="margin: 0 5px;">
+        <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
+      </a>
+      <a href="https://github.com/Carlossamu7?tab=followers" style="margin: 0 5px;">
+        <img src="https://img.shields.io/github/followers/Carlossamu7.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub followers">
+      </a>
+    </p>
+  </div>
 </div>
 
 <hr>
@@ -45,13 +41,10 @@ Hi! I'm **Carlos Sánchez Muñoz**, a computer scientist and mathematician from 
 ### ☄️ Languages & Technologies
 
 <p align="center" style="flex-wrap: wrap;">
-  <code><img title="Problem Solving" height="28" src="./images/problemSolving.png" alt="Problem Solving"></code>
   <code><img title="C" height="28" src="./images/c.svg" alt="C"></code>
   <code><img title="C#" height="28" src="./images/C_sharp.png" alt="C#"></code>
   <code><img title="C++" height="30" src="./images/cpp.svg" alt="C++"></code>
   <code><img title="Python" height="30" src="./images/python.png" alt="Python"></code>
-  <code><img title="Flask" height="28" src="./images/flask.png" alt="Flask"></code>
-  <code><img title="JSON" height="28" src="./images/json.svg" alt="JSON"></code>
   <code><img title="R" height="30" src="./images/R.png" alt="R"></code>
   <code><img title="RStudio" height="30" src="./images/RStudio.png" alt="RStudio"></code>
   <code><img title="Java" height="30" src="./images/java-original.svg" alt="Java"></code>
@@ -59,6 +52,12 @@ Hi! I'm **Carlos Sánchez Muñoz**, a computer scientist and mathematician from 
   <code><img title="HTML5" height="30" src="./images/html5.svg" alt="HTML5"></code>
   <code><img title="CSS3" height="30" src="./images/css3.svg" alt="CSS3"></code>
   <code><img title="JavaScript" height="30" src="./images/js.svg" alt="JavaScript"></code>
+</p>
+
+<p align="center" style="flex-wrap: wrap;">
+  <code><img title="Problem Solving" height="28" src="./images/problemSolving.png" alt="Problem Solving"></code>
+  <code><img title="Flask" height="28" src="./images/flask.png" alt="Flask"></code>
+  <code><img title="JSON" height="28" src="./images/json.svg" alt="JSON"></code>
   <code><img title="SQL" height="30" src="./images/sql.png" alt="SQL"></code>
   <code><img title="Firebird" height="30" src="./images/firebird-logo-500.png" alt="Firebird"></code>
   <code><img title="Postgree" height="30" src="./images/postgresql.svg" alt="Postgree"></code>
