@@ -1,14 +1,10 @@
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <div style="flex-shrink: 0; width: 110px; text-align: center;">
-    <img src="./images/Avatar.png" alt="Carlos Sanchez" width="120" height="120" style="border-radius: 50%;">
-  </div>
-  <div style="flex: 1; min-width: 250px;">
-    <h1>
-      <a href="https://git.io/typing-svg" style="text-decoration: none;">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Carlos...;Nice+to+meet+you!&center=true&size=25" alt="Typing SVG">
-      </a>
-    </h1>
-  </div>
+  <img align="left" width="120" height="120" alt="Carlos Sanchez" src="./images/Avatar.png"/>
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Carlos...;Nice+to+meet+you!&center=true&size=25">
+    </a>
+  </h1>
 </div>
 
 <!-- Badges en Markdown -->
