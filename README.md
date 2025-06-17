@@ -1,11 +1,9 @@
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img align="left" width="120" height="120" alt="Carlos Sanchez" src="./images/Avatar.png"/>
-  <h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Carlos...;Nice+to+meet+you!&center=true&size=25">
-    </a>
-  </h1>
-</div>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Carlos...;Nice+to+meet+you!&center=true&size=25">
+  </a>
+</h1>
 
 <!-- Badges en Markdown -->
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlossamu7/)
